@@ -1,0 +1,8 @@
+Revision history for POE-Component-IRC-PAUSE-RecentUploads
+
+0.02  Tue Feb 12 5:55:00 2008
+    - added flood_limit option.
+
+0.01  Sat Feb  2 22:02:26 2008
+    - First version, released on an unsuspecting world.
+
